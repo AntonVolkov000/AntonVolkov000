@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-1. ol
-  1. ol
+1. 1 класс - работа с консолью, получать и выводить данные
+  a. Функции: считывание и вывод 
     1. ol
       1. ol
 2. ol
