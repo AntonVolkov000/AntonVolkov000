@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 1. ol
-    1. ol
+    a. ol
       1. ol
 2. ol
 2. ol - всё равно 3
